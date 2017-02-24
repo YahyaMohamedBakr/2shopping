@@ -71,7 +71,7 @@
           "_name": "header6",
           "_anchor": "header6-c",
           "_params": {
-            "imageSize": "55",
+            "imageSize": "50",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/how-to-buy-prodcuts-from-aliexpress-in-pakistan-logo-2000x665.png",
